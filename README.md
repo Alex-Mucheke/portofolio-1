@@ -6,6 +6,7 @@ A modern, responsive portfolio website showcasing my full-stack development skil
 
 [View Portfolio](https://your-portfolio-url.com) <!-- Update with your actual deployment URL -->
 
+<<<<<<< HEAD
 ##  Screenshots
 
 <!-- Add screenshots of your portfolio here -->
@@ -13,25 +14,75 @@ A modern, responsive portfolio website showcasing my full-stack development skil
 ##  Features
 
 ###  **Modern Design**
+=======
+## 📸 Screenshots
+
+<!-- Add screenshots of your portfolio here -->
+
+## ✨ Features
+
+### 🎨 **Modern Design**
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 - Clean, professional interface with gradient accents
 - Responsive design that works on all devices
 - Smooth animations and transitions using Framer Motion
 - Dark theme with modern color palette
+<<<<<<< HEAD
 ###  **Interactive Sections**
+=======
+
+### 🚀 **Interactive Sections**
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 - **Hero Section**: Professional introduction with animated elements
 - **About**: Personal story with GitHub profile integration
 - **Skills**: Technical expertise showcase
 - **Projects**: Portfolio of real-world applications
 - **Contact**: Contact form with social media links
 
+<<<<<<< HEAD
 ###  **Technical Features**
+=======
+### 🛠️ **Technical Features**
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 - TypeScript for type safety
 - Component-based architecture
 - Responsive grid layouts
 - Smooth scrolling navigation
 - Professional animations
 - SEO optimized
+<<<<<<< HEAD
 #
+=======
+
+## 🏗️ Projects Showcased
+
+### 1. **EduSoma - Learning Management System**
+- **Tech Stack**: Angular, NestJS, PostgreSQL, Prisma ORM
+- **Features**: Multi-role system, course management, progress tracking, automated certificates
+- **GitHub**: [E-Learning Repository](https://github.com/Kishoyian-Brian/E-Learning)
+
+### 2. **RentCar - Car Rental Management System**
+- **Tech Stack**: Angular, NestJS, PostgreSQL, Prisma ORM, Cloudinary
+- **Features**: Role-based access, booking system, reviews, real-time notifications
+- **GitHub**: [Rental_Car Repository](https://github.com/Kishoyian-Brian/Rental_Car)
+
+### 3. **SendIt - Parcel Delivery Management System**
+- **Tech Stack**: Angular, NestJS, PostgreSQL, WebSockets, Leaflet Maps
+- **Features**: Real-time tracking, route optimization, interactive maps
+- **GitHub**: [Sendit Repository](https://github.com/Kishoyian-Brian/Sendit)
+
+### 4. **Shopiie E-commerce Platform**
+- **Tech Stack**: Angular, NestJS, TypeScript, PostgreSQL, Prisma ORM
+- **Features**: Product management, shopping cart, payment integration
+- **GitHub**: [Shoppie Repository](https://github.com/Kishoyian-Brian/Shoppie)
+
+### 5. **GreenScape Adventures - Eco-Tourism Website**
+- **Tech Stack**: HTML5, CSS3, JavaScript, Vercel
+- **Features**: Responsive design, interactive galleries, environmental focus
+- **GitHub**: [GreenSCape-Adventure Repository](https://github.com/Kishoyian-Brian/GreenSCape-Adventure)
+- **Live Demo**: [green-scape-kappa.vercel.app](https://green-scape-kappa.vercel.app/)
+
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 ## 🛠️ Technology Stack
 
 ### **Frontend**
@@ -48,7 +99,11 @@ A modern, responsive portfolio website showcasing my full-stack development skil
 - **Git** - Version control
 - **npm** - Package management
 
+<<<<<<< HEAD
 ##  Getting Started
+=======
+## 🚀 Getting Started
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -58,7 +113,11 @@ A modern, responsive portfolio website showcasing my full-stack development skil
 
 1. **Clone the repository**
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/Alex-Mucheke/portofolio-1.git
+=======
+   git clone https://github.com/Kishoyian-Brian/Portfolio.git
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
    cd Portfolio
    ```
 
@@ -136,7 +195,11 @@ The portfolio is fully responsive and optimized for:
 - **Tablet** (768px - 1199px)
 - **Mobile** (320px - 767px)
 
+<<<<<<< HEAD
 ## Deployment
+=======
+## 🚀 Deployment
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 
 ### **Vercel (Recommended)**
 1. Push your code to GitHub
@@ -153,14 +216,22 @@ The portfolio is fully responsive and optimized for:
 2. Add deploy script to package.json
 3. Run: `npm run deploy`
 
+<<<<<<< HEAD
 ##  Performance
+=======
+## 📊 Performance
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 
 - **Lighthouse Score**: 95+ across all metrics
 - **Fast Loading**: Optimized bundle size
 - **SEO Ready**: Meta tags and structured data
 - **Accessibility**: WCAG 2.1 compliant
 
+<<<<<<< HEAD
 ##  Contributing
+=======
+## 🤝 Contributing
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
@@ -172,7 +243,20 @@ The portfolio is fully responsive and optimized for:
 
 This project is open source and available under the [MIT License](LICENSE).
 
+<<<<<<< HEAD
 
+=======
+## 📞 Contact
+
+**Brian Kishoyian**
+- **Email**: brianmwasbayo@gmail.com
+- **Phone**: +254 700 866 007
+- **GitHub**: [@Kishoyian-Brian](https://github.com/Kishoyian-Brian)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Resume**: [View Resume](https://docs.google.com/document/d/1Pq5-4zGUh4vtK3UZVxKNk_PDh4e0WZFZnWgghxals84/edit?usp=drive_link)
+
+## 🙏 Acknowledgments
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d
 
 - **Framer Motion** for smooth animations
 - **Tailwind CSS** for utility-first styling
@@ -182,3 +266,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+<<<<<<< HEAD
+=======
+**Built with ❤️ by Brian Kishoyian**
+
+*Junior Software Developer specializing in Full-Stack Development with Angular, NestJS, and modern web technologies.*
+>>>>>>> 45279f350e936162826de79785caf2e4ab69387d

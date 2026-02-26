@@ -32,7 +32,7 @@ const projects = [
     demo: 'https://github.com/Alex-Mucheke/parcel delivery',
   },
   {
-    title: ' E-commerce Platform',
+    title: 'E-commerce Platform',
     description:
       'A modern full-stack e-commerce platform built with NestJS and Angular. Features product management, shopping cart functionality, checkout flow, payment integration, and responsive design for seamless online shopping experiences.',
     image: 'Shoppie.png',
@@ -41,7 +41,7 @@ const projects = [
     demo:'https://e-commerce-website-2-nu.vercel.app/'
   },
   {
-    title: ' Eco-Tourism Website',
+    title: 'Eco-Tourism Website',
     description:
       'A stunning, responsive website for an eco-tourism and nature adventure company. Features sustainable tourism experiences, nature activities, interactive galleries, and environmental conservation awareness. Built with pure frontend technologies.',
     image: '/greenscape.png',
@@ -58,10 +58,6 @@ const projects = [
     github: 'github.com/Alex-Mucheke/portofolio-1',
     demo: 'https://Alex-Mucheke-portfolio-ten-nu.vercel.app/',
   },
-
-
- 
-  
 ];
 
 export default function Projects() {

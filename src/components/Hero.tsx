@@ -102,7 +102,7 @@ export default function Hero() {
               </motion.button>
               
               <motion.a
-                href="https://docs.google.com/document/d/1Dg0wYOJZsGvLl9nSiuBFsO16PXk5VGFO/edit?usp=drive_link&ouid=116967796453523479991&rtpof=true&sd=true"
+                href="https://docs.google.com/document/d/1Pq5-4zGUh4vtK3UZVxKNk_PDh4e0WZFZnWgghxals84/edit?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 border border-surface-700 text-slate-300 font-semibold rounded-lg hover:border-amber-500/50 hover:bg-surface-800/50 transition-all duration-300 flex items-center justify-center gap-2"
