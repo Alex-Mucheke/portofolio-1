@@ -56,7 +56,7 @@ const projects = [
     image: '/portfolio.png',
     tech: ['React 19', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Lucide React', 'Vite'],
     github: 'github.com/Alex-Mucheke/portofolio-1',
-    demo: 'https://Alex-Mucheke-portfolio-ten-nu.vercel.app/',
+    demo: 'https://portofolio-1-zeta.vercel.app/',
   },
 ];
 
